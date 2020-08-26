@@ -12,7 +12,7 @@ import (
 )
 
 var (
-	mGet  = "GET"
+	// mGet  = "GET"
 	mPost = "POST"
 )
 
