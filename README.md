@@ -1,6 +1,7 @@
 # WHOAMi
 
 [![Build Status](https://travis-ci.com/nhoclove/whoami.svg?branch=master)](https://travis-ci.com/nhoclove/whoami)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nhoclove/whoami/blob/master/LICENSE.md)
 
 # Description
 A simple HTTP service
