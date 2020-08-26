@@ -17,12 +17,12 @@ var (
 )
 
 type mux struct {
-	handlers map[string]func(http.ResponseWriter, *http.Request)
+	handlers map[string]http.HandlerFunc
 }
 
 func newMux() *mux {
 	return &mux{
-		handlers: make(map[string]func(http.ResponseWriter, *http.Request)),
+		handlers: make(map[string]http.HandlerFunc),
 	}
 }
 
