@@ -1,5 +1,7 @@
 # WHOAMi
 
+[![Build Status](https://travis-ci.com/nhoclove/whoami.svg?branch=master)](https://travis-ci.com/nhoclove/whoami)
+
 # Description
 A simple HTTP service
 
